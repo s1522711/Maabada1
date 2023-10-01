@@ -1,0 +1,14 @@
+C:\Users\tamir\source\repos\Maabada1\Maabada1\bin\Debug\net6.0\Maabada1.exe
+C:\Users\tamir\source\repos\Maabada1\Maabada1\bin\Debug\net6.0\Maabada1.deps.json
+C:\Users\tamir\source\repos\Maabada1\Maabada1\bin\Debug\net6.0\Maabada1.runtimeconfig.json
+C:\Users\tamir\source\repos\Maabada1\Maabada1\bin\Debug\net6.0\Maabada1.dll
+C:\Users\tamir\source\repos\Maabada1\Maabada1\bin\Debug\net6.0\Maabada1.pdb
+C:\Users\tamir\source\repos\Maabada1\Maabada1\obj\Debug\net6.0\Maabada1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamir\source\repos\Maabada1\Maabada1\obj\Debug\net6.0\Maabada1.AssemblyInfoInputs.cache
+C:\Users\tamir\source\repos\Maabada1\Maabada1\obj\Debug\net6.0\Maabada1.AssemblyInfo.cs
+C:\Users\tamir\source\repos\Maabada1\Maabada1\obj\Debug\net6.0\Maabada1.csproj.CoreCompileInputs.cache
+C:\Users\tamir\source\repos\Maabada1\Maabada1\obj\Debug\net6.0\Maabada1.dll
+C:\Users\tamir\source\repos\Maabada1\Maabada1\obj\Debug\net6.0\refint\Maabada1.dll
+C:\Users\tamir\source\repos\Maabada1\Maabada1\obj\Debug\net6.0\Maabada1.pdb
+C:\Users\tamir\source\repos\Maabada1\Maabada1\obj\Debug\net6.0\Maabada1.genruntimeconfig.cache
+C:\Users\tamir\source\repos\Maabada1\Maabada1\obj\Debug\net6.0\ref\Maabada1.dll
