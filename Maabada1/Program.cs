@@ -154,7 +154,8 @@
             n3 = num / 10;
             Console.WriteLine("The reversed number is: " + (n1*100 + n2*10 + n3));
             */
-
+            
+            /*
             Console.Write("Give me the price of the product: ");
             int input = int.Parse(Console.ReadLine());
             int tenIlsCoins, left, fiveIlsCoins;
@@ -163,6 +164,84 @@
             fiveIlsCoins = left / 5;
             left = left - fiveIlsCoins*5;
             Console.WriteLine("You will need " + tenIlsCoins + " coins of 10ILS, you will need " + fiveIlsCoins + " coins of 5ILS and you will need " + left + " of 1ILS coins");
+            */
+            
+            /*
+            Console.Write("Give me the day of the week: ");
+            string dayOfWeekInput = Console.ReadLine().ToLower();
+            Console.Write("How many days are left till ur bday? ");
+            int daysToBdayLeft = int.Parse(Console.ReadLine());
+            int dayOfWeek = 0;
+            if (dayOfWeekInput == "saturday")
+            {
+                dayOfWeek = 0;
+            }
+            else if (dayOfWeekInput == "sunday")
+            {
+                dayOfWeek = 1;
+            }
+            else if (dayOfWeekInput == "monday")
+            {
+                dayOfWeek = 2;
+            }
+            else if (dayOfWeekInput == "tuesday")
+            {
+                dayOfWeek = 3;
+            }
+            else if (dayOfWeekInput == "wednesday")
+            {
+                dayOfWeek = 4;
+            }
+            else if (dayOfWeekInput == "thursday")
+            {
+                dayOfWeek = 5;
+            }
+            else if (dayOfWeekInput == "friday")
+            {
+                dayOfWeek = 6;
+            }
+            int resultDayOfWeek = daysToBdayLeft + dayOfWeek;
+            while (resultDayOfWeek > 6)
+            {
+                resultDayOfWeek = resultDayOfWeek - 7;
+            }
+
+            string outputDayOfWeek = "saturday";
+            if (resultDayOfWeek == 0)
+            {
+                outputDayOfWeek = "saturday";
+            }
+            else if (resultDayOfWeek == 1)
+            {
+                outputDayOfWeek = "sunday";
+            }
+            else if (resultDayOfWeek == 2)
+            {
+                outputDayOfWeek = "monday";
+            }else if (resultDayOfWeek == 3)
+            {
+                outputDayOfWeek = "tuesday";
+            }else if (resultDayOfWeek == 4)
+            {
+                outputDayOfWeek = "wednesday";
+            }else if (resultDayOfWeek == 5)
+            {
+                outputDayOfWeek = "thursday";
+            }else if (resultDayOfWeek == 6)
+            {
+                outputDayOfWeek = "friday";
+            }
+            Console.WriteLine("Your birthday will fall on " + outputDayOfWeek);
+            */
+            
+            /*
+            const double PI=3.14;
+            double radius , area;
+            Console.WriteLine ("enter radius");
+            radius=double.Parse(Console.ReadLine());
+            area = PI*radius*radius;
+            Console.WriteLine ("area ="+ area);
+            */
         }
     }
 }
